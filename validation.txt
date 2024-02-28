@@ -1,0 +1,8 @@
+True positive: 268
+False positive: 14
+False negative: 132
+True negative: 786
+Accuracy: 0.87833
+Precision: 0.98250
+Recall: 0.85621
+F1: 0.91502
